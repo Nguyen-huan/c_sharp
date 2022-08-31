@@ -1,0 +1,8 @@
+D:\code\Window_App\NguyenHuuHuan\NguyenHuuHuan\bin\Debug\NguyenHuuHuan.exe.config
+D:\code\Window_App\NguyenHuuHuan\NguyenHuuHuan\bin\Debug\NguyenHuuHuan.exe
+D:\code\Window_App\NguyenHuuHuan\NguyenHuuHuan\bin\Debug\NguyenHuuHuan.pdb
+D:\code\Window_App\NguyenHuuHuan\NguyenHuuHuan\obj\Debug\NguyenHuuHuan.csproj.AssemblyReference.cache
+D:\code\Window_App\NguyenHuuHuan\NguyenHuuHuan\obj\Debug\NguyenHuuHuan.csproj.SuggestedBindingRedirects.cache
+D:\code\Window_App\NguyenHuuHuan\NguyenHuuHuan\obj\Debug\NguyenHuuHuan.csproj.CoreCompileInputs.cache
+D:\code\Window_App\NguyenHuuHuan\NguyenHuuHuan\obj\Debug\NguyenHuuHuan.exe
+D:\code\Window_App\NguyenHuuHuan\NguyenHuuHuan\obj\Debug\NguyenHuuHuan.pdb

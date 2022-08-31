@@ -1,0 +1,12 @@
+D:\code\Window_App\App_1\App_1\bin\Debug\App_1.exe.config
+D:\code\Window_App\App_1\App_1\bin\Debug\App_1.exe
+D:\code\Window_App\App_1\App_1\bin\Debug\App_1.pdb
+D:\code\Window_App\App_1\App_1\obj\Debug\App_1.csproj.AssemblyReference.cache
+D:\code\Window_App\App_1\App_1\obj\Debug\App_1.csproj.SuggestedBindingRedirects.cache
+D:\code\Window_App\App_1\App_1\obj\Debug\App_1.Form1.resources
+D:\code\Window_App\App_1\App_1\obj\Debug\App_1.Properties.Resources.resources
+D:\code\Window_App\App_1\App_1\obj\Debug\App_1.csproj.GenerateResource.cache
+D:\code\Window_App\App_1\App_1\obj\Debug\App_1.csproj.CoreCompileInputs.cache
+D:\code\Window_App\App_1\App_1\obj\Debug\App_1.exe
+D:\code\Window_App\App_1\App_1\obj\Debug\App_1.pdb
+D:\code\Window_App\App_1\App_1\obj\Debug\App_1.Form2.resources

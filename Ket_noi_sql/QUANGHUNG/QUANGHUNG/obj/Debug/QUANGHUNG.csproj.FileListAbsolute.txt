@@ -1,0 +1,12 @@
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\obj\Debug\QUANGHUNG.csproj.AssemblyReference.cache
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\obj\Debug\QUANGHUNG.csproj.SuggestedBindingRedirects.cache
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\obj\Debug\QUANGHUNG.mAYbAY.resources
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\obj\Debug\QUANGHUNG.Properties.Resources.resources
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\obj\Debug\QUANGHUNG.csproj.GenerateResource.cache
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\obj\Debug\QUANGHUNG.csproj.CoreCompileInputs.cache
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\bin\Debug\QUANGHUNG.exe.config
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\bin\Debug\QUANGHUNG.exe
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\bin\Debug\QUANGHUNG.pdb
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\obj\Debug\QUANGHUNG.exe
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\obj\Debug\QUANGHUNG.pdb
+D:\code\C_Sharp\Ket_noi_sql\QUANGHUNG\QUANGHUNG\obj\Debug\QUANGHUNG.HangSX.resources

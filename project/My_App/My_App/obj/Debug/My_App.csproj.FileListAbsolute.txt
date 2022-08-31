@@ -1,0 +1,8 @@
+C:\Users\Nguyen Huan\source\repos\My_App\My_App\bin\Debug\My_App.exe.config
+C:\Users\Nguyen Huan\source\repos\My_App\My_App\bin\Debug\My_App.exe
+C:\Users\Nguyen Huan\source\repos\My_App\My_App\bin\Debug\My_App.pdb
+C:\Users\Nguyen Huan\source\repos\My_App\My_App\obj\Debug\My_App.csproj.AssemblyReference.cache
+C:\Users\Nguyen Huan\source\repos\My_App\My_App\obj\Debug\My_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Huan\source\repos\My_App\My_App\obj\Debug\My_App.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Huan\source\repos\My_App\My_App\obj\Debug\My_App.exe
+C:\Users\Nguyen Huan\source\repos\My_App\My_App\obj\Debug\My_App.pdb

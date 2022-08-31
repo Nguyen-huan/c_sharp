@@ -1,0 +1,8 @@
+C:\Users\Nguyen Huan\source\repos\NguyenHuuHuan\NguyenHuuHuan\bin\Debug\NguyenHuuHuan.exe.config
+C:\Users\Nguyen Huan\source\repos\NguyenHuuHuan\NguyenHuuHuan\bin\Debug\NguyenHuuHuan.exe
+C:\Users\Nguyen Huan\source\repos\NguyenHuuHuan\NguyenHuuHuan\bin\Debug\NguyenHuuHuan.pdb
+C:\Users\Nguyen Huan\source\repos\NguyenHuuHuan\NguyenHuuHuan\obj\Debug\NguyenHuuHuan.csproj.AssemblyReference.cache
+C:\Users\Nguyen Huan\source\repos\NguyenHuuHuan\NguyenHuuHuan\obj\Debug\NguyenHuuHuan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Huan\source\repos\NguyenHuuHuan\NguyenHuuHuan\obj\Debug\NguyenHuuHuan.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Huan\source\repos\NguyenHuuHuan\NguyenHuuHuan\obj\Debug\NguyenHuuHuan.exe
+C:\Users\Nguyen Huan\source\repos\NguyenHuuHuan\NguyenHuuHuan\obj\Debug\NguyenHuuHuan.pdb

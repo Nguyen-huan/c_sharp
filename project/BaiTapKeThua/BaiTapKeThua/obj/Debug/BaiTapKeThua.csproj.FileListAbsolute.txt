@@ -1,0 +1,8 @@
+C:\Users\Nguyen Huan\source\repos\BaiTapKeThua\BaiTapKeThua\bin\Debug\BaiTapKeThua.exe.config
+C:\Users\Nguyen Huan\source\repos\BaiTapKeThua\BaiTapKeThua\bin\Debug\BaiTapKeThua.exe
+C:\Users\Nguyen Huan\source\repos\BaiTapKeThua\BaiTapKeThua\bin\Debug\BaiTapKeThua.pdb
+C:\Users\Nguyen Huan\source\repos\BaiTapKeThua\BaiTapKeThua\obj\Debug\BaiTapKeThua.csproj.AssemblyReference.cache
+C:\Users\Nguyen Huan\source\repos\BaiTapKeThua\BaiTapKeThua\obj\Debug\BaiTapKeThua.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Huan\source\repos\BaiTapKeThua\BaiTapKeThua\obj\Debug\BaiTapKeThua.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Huan\source\repos\BaiTapKeThua\BaiTapKeThua\obj\Debug\BaiTapKeThua.exe
+C:\Users\Nguyen Huan\source\repos\BaiTapKeThua\BaiTapKeThua\obj\Debug\BaiTapKeThua.pdb

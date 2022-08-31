@@ -1,0 +1,8 @@
+C:\Users\Nguyen Huan\source\repos\OL3\OL3\bin\Debug\OL3.exe.config
+C:\Users\Nguyen Huan\source\repos\OL3\OL3\bin\Debug\OL3.exe
+C:\Users\Nguyen Huan\source\repos\OL3\OL3\bin\Debug\OL3.pdb
+C:\Users\Nguyen Huan\source\repos\OL3\OL3\obj\Debug\OL3.csproj.AssemblyReference.cache
+C:\Users\Nguyen Huan\source\repos\OL3\OL3\obj\Debug\OL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Huan\source\repos\OL3\OL3\obj\Debug\OL3.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Huan\source\repos\OL3\OL3\obj\Debug\OL3.exe
+C:\Users\Nguyen Huan\source\repos\OL3\OL3\obj\Debug\OL3.pdb

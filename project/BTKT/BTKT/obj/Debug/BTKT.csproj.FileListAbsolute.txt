@@ -1,0 +1,8 @@
+C:\Users\Nguyen Huan\source\repos\BTKT\BTKT\bin\Debug\BTKT.exe.config
+C:\Users\Nguyen Huan\source\repos\BTKT\BTKT\bin\Debug\BTKT.exe
+C:\Users\Nguyen Huan\source\repos\BTKT\BTKT\bin\Debug\BTKT.pdb
+C:\Users\Nguyen Huan\source\repos\BTKT\BTKT\obj\Debug\BTKT.csproj.AssemblyReference.cache
+C:\Users\Nguyen Huan\source\repos\BTKT\BTKT\obj\Debug\BTKT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Huan\source\repos\BTKT\BTKT\obj\Debug\BTKT.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Huan\source\repos\BTKT\BTKT\obj\Debug\BTKT.exe
+C:\Users\Nguyen Huan\source\repos\BTKT\BTKT\obj\Debug\BTKT.pdb
